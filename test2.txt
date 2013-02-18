@@ -1,0 +1,35 @@
+commit 0c817ee140803893e8ac29d4807b42040b4bd347
+Author: Xin Lu <xin.lu@gmx.com>
+Date:   Mon Feb 18 21:56:14 2013 +0100
+
+    test
+
+commit 9decea229343bb5a1d6612b48f4f1bc630aaf991
+Author: Xin Lu <xin.lu@gmx.com>
+Date:   Mon Feb 18 21:52:35 2013 +0100
+
+    Revert "Revert "Reverted back contacts content""
+
+    This reverts commit adaf4f278b8b0c950debff3460712dfff93b20c8.
+
+commit adaf4f278b8b0c950debff3460712dfff93b20c8
+Author: Xin Lu <xin.lu@gmx.com>
+Date:   Mon Feb 18 21:51:47 2013 +0100
+
+    Revert "Reverted back contacts content"
+
+    This reverts commit 795d3fff996b94e0b0617fdc58fb8c3c3d29a5d0.
+
+commit 795d3fff996b94e0b0617fdc58fb8c3c3d29a5d0
+Author: Xin Lu <xin.lu@gmx.com>
+Date:   Mon Feb 18 21:48:42 2013 +0100
+
+    Reverted back contacts content
+
+commit 02bb121f936fa3049ae543a260ba059877e505bd
+Author: Xin Lu <xin.lu@gmx.com>
+Date:   Mon Feb 18 21:47:23 2013 +0100
+
+    deleted contact.html content
+Luxin@LUXIN-PC ~/Videos/explore_california (master)
+$ git revert
